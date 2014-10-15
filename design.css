@@ -18,15 +18,15 @@
 			padding-left: 165px;
 		}
 		.linkedin{
-			border: 10px solid #fff;  
+			border: 10px solid black;  
 			  float: left;
 			  height: 300px;
 			  width: 300px;
 			  margin: 20px;
 			  overflow: hidden;
 			   
-			  -webkit-box-shadow: 5px 5px 5px #111;
-			          box-shadow: 5px 5px 5px #111; 
+			  -webkit-box-shadow: 5px 5px 5px black;
+			          box-shadow: 5px 5px 5px black; 
 		}
 		/*MORPH*/
 		.linkedin {
