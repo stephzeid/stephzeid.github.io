@@ -1,0 +1,12 @@
+		body{
+			background-color: #FF9999;
+		}
+
+		#name{
+			color: #E6E6E6;
+			position: absolute;
+			font-family: Courier, sans-serif;
+			padding-top: 76px;	
+			font-size: 30px;
+			padding-left: 165px;
+		}
