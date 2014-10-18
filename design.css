@@ -6,12 +6,27 @@
 		#name{
 			color: #E6E6E6;
 			position: absolute;
-			font-family: Courier, sans-serif;
-			padding-top: 76px;	
+			font-family: Courier, sans-serif;	
 			font-size: 30px;
-			padding-left: 165px;
+			position: absolute;
+			top: 106%;
 		}
-		
+
+		#linkedin{
+			position: absolute;
+			top: 46%;
+			right: 60%;
+		}
+		#twitter{
+			position: absolute;
+			top: 46%;
+			right: 44%;
+		}
+		#github{
+			position: absolute;
+			top: 46%;
+			left: 17%;
+		}
 		
  
 
