@@ -1,32 +1,8 @@
-/*not going to use this class for now. Will proceed to moving all CSS in the near future*/
-		body{
-			background-color: #FF9999;
-		}
-
-		#name{
-			color: #E6E6E6;
-			position: absolute;
-			font-family: Courier, sans-serif;	
-			font-size: 30px;
-			position: absolute;
-			top: 106%;
-		}
-
-		#linkedin{
-			position: absolute;
-			top: 46%;
-			right: 60%;
-		}
-		#twitter{
-			position: absolute;
-			top: 46%;
-			right: 44%;
-		}
-		#github{
-			position: absolute;
-			top: 46%;
-			left: 17%;
-		}
-		
- 
-
+.homepage{
+				/*background-color: #FF9999;*/
+				background-image:url('bcg_slide-1.jpg');
+				background-position: center center;
+				background-size: cover;
+				height: 100%;
+				width: 100%;
+			}
